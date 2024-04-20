@@ -47,6 +47,6 @@ I can used for html,css and javascript added for wavetune.
 
 -> than added function on tune in local files are move and win used.
 
--> JavaScript : https://github.com/Salman-id85/Tic_Tac_Toe_Poject/blob/main/main.js.
+-> JavaScript source code : https://github.com/Salman-id85/Tic_Tac_Toe_Poject/blob/main/main.js.
 
 
