@@ -16,3 +16,11 @@ The game ends immediately when a player achieves this winning sequence.
 
 Draw Condition:
             If all nine squares on the grid are filled, and no player has formed a winning sequence, the game is declared a draw2.
+# Program
+
+I can used for html,css and javascript added for wavetune.
+
+# HTML
+-> Start by creating the basic structure of your HTML document. You'll need elements for the game grid and any necessary buttons or elements for player interaction.
+->Than html code based on index in webside tic tac toe game than connection with css and javascript.
+-> HTML source code : 
