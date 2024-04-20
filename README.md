@@ -26,3 +26,13 @@ I can used for html,css and javascript added for wavetune.
 ->Than html code based on index in webside tic tac toe game than connection with css and javascript.
 
 -> HTML source code : https://github.com/Salman-id85/Tic_Tac_Toe_Poject/blob/main/index.html .
+
+# CSS 
+
+-> Use CSS to style your game grid, buttons, and any other elements to make your Tic Tac Toe game visually appealing.
+
+-> Added more than style background color black than clock input color is orange than rus on style.
+
+-> Than this game win to show "draw" or "win" using color orange.
+
+-> CSS source code :
