@@ -41,10 +41,12 @@ I can used for html,css and javascript added for wavetune.
 
 -> Implement the game logic using JavaScript. This involves handling user clicks on the grid, checking for win conditions, and updating the grid accordingly.
 
--> To javascript based on concept of user can insert value is "x" based on oneuser than secoduser input based on "O" based game
+-> To javascript based on concept of user can insert value is "x" based on oneuser than secoduser input based on "O" based game.
 
--> User can insert one symbol to currect three symbol "x- one palyer" or "o- anthor player" play win or draw based on concept
+-> User can insert one symbol to currect three symbol "x- one palyer" or "o- anthor player" play win or draw based on concept.
 
--> JavaScript : 
+-> than added function on tune in local files are move and win used.
+
+-> JavaScript : https://github.com/Salman-id85/Tic_Tac_Toe_Poject/blob/main/main.js.
 
 
