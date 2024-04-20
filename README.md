@@ -35,4 +35,16 @@ I can used for html,css and javascript added for wavetune.
 
 -> Than this game win to show "draw" or "win" using color orange.
 
--> CSS source code :
+-> CSS source code : https://github.com/Salman-id85/Tic_Tac_Toe_Poject/blob/main/style.css.
+
+# JavaScript
+
+-> Implement the game logic using JavaScript. This involves handling user clicks on the grid, checking for win conditions, and updating the grid accordingly.
+
+-> To javascript based on concept of user can insert value is "x" based on oneuser than secoduser input based on "O" based game
+
+-> User can insert one symbol to currect three symbol "x- one palyer" or "o- anthor player" play win or draw based on concept
+
+-> JavaScript : 
+
+
