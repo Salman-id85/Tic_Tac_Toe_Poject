@@ -22,5 +22,7 @@ I can used for html,css and javascript added for wavetune.
 
 # HTML
 -> Start by creating the basic structure of your HTML document. You'll need elements for the game grid and any necessary buttons or elements for player interaction.
+
 ->Than html code based on index in webside tic tac toe game than connection with css and javascript.
--> HTML source code : 
+
+-> HTML source code : https://github.com/Salman-id85/Tic_Tac_Toe_Poject/blob/main/index.html .
